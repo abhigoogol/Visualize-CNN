@@ -3,15 +3,13 @@
 
 **Vgg11** pretrained is used for feature extraction.
 
+## Original Image
+<span><img src="./activation_images/original_image.png" alt="original image" title="Original Image" width=200px/></span>
+
 ## Layer Activations
 <img src="activation_images/figure_0.png" alt="Layer 0" title="Layer 0" width="33%"/><img src="activation_images/figure_1.png" alt="Layer 1" title="Layer 1" width="33%"/><img src="activation_images/figure_2.png" alt="Layer 2" title="Layer 2" width="33%"/><img src="activation_images/figure_3.png" alt="Layer 3" title="Layer 3" width="33%"/><img src="activation_images/figure_4.png" alt="Layer 4" title="Layer 4" width="33%"/><img src="activation_images/figure_5.png" alt="Layer 5" title="Layer 5" width="33%"/>
 
-These images show layer activations upto layer 5. More can be seen in the notebook.
-<!-- 1. Implementation of [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) *Gatys (CVPR 2016)* paper in [Style_Transfer_Gatys_CVPR2016.ipynb](https://github.com/abhigoogol/Style-Transfer/blob/master/Style_Transfer_Gatys_CVPR2016.ipynb) Notebook
-
-## To Do:
-1. Add comments
-2. Implementation of [Universal Style Transfer via Feature Transforms](https://arxiv.org/abs/1705.08086) *Yijun Li (NIPS 2017)* paper -->
+These images show layer activations upto layer 5. Details can be seen in the notebook.
 
 ## Built With
 
